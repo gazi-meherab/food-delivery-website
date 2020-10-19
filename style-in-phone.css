@@ -1,0 +1,34 @@
+#home {
+    height: fit-content;
+}
+
+#navbar {
+    flex-direction: column;
+    margin-bottom: 10%;
+    padding-bottom: 10%;
+}
+
+h1 {
+    font-size: 150%;
+}
+
+#welcomeing-note {
+    margin-top: 40%;
+}
+
+#navbar ul li a {
+    font-size: 1em;
+    padding: 5px;
+}
+
+#feature-slides h1 {
+    font-size: 250%;
+}
+
+#services #box-wrap {
+    flex-direction: column;
+}
+
+#about #box-wrap {
+    flex-direction: column;
+}
